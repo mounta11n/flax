@@ -1,0 +1,8 @@
+streamlit==0.84.1
+Pillow
+jax[cpu]
+flax
+transformers
+huggingface_hub
+googletrans==4.0.0-rc1
+protobuf==3.20
